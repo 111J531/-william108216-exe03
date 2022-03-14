@@ -22,12 +22,28 @@ x % y
     product = a + b;
 
  
-    printf("a * b = %d \n", product);
+    printf("a + b = %d \n", product);
     
     product = a - b;
 
  
+    printf("a - b = %d \n", product);
+    
+     // Calculating product
+    product = a * b;
+
+ 
     printf("a * b = %d \n", product);
+    
+    product = a / b;
+
+ 
+    printf("a / b = %d \n", product);
+    
+    product = a % b;
+
+ 
+    printf("a % b = %d \n", product);
     
     
     /*
