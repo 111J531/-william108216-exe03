@@ -3,7 +3,7 @@
 int main()
 {
     int x=19;
-    printf("input x= %d \n ", x);
+    printf("input x= %d \n \n ", x);
     
     //x = x + 5;
     x+=5 ;
